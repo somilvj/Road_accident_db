@@ -42,6 +42,4 @@ Fork the repository.
 Create a new branch.
 Make your changes and commit them.
 Push to your fork and submit a pull request.
-## Acknowledgments
-The creators would like to thank [Data Source] for providing the accident data used in this dashboard.
-Screenshot 2023-11-30 232532
+
